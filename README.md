@@ -26,7 +26,8 @@ Python (Django, FastAPI, Flask), JavaScript, React, Next.js, HTMX, Tailwind CSS,
   Windows desktop app that downloads video and audio from YouTube and 1000+ other sites. Single
   installer with no admin rights needed, queue, playlists, three languages, 155 automated tests
   and CI. Python, PySide6, yt-dlp. MIT.
-- **Echo-AI Audio Transcriber**: 100% local audio transcription for Windows, macOS and Linux, with a
+- **[Echo-AI Audio Transcriber](https://github.com/victorhuggomed2006-ux/Echo-AI-Audio-Transcriber)**:
+  100% local audio transcription for Windows, macOS and Linux, with a
   local AI assistant that answers questions citing the exact audio excerpt. faster-whisper, Ollama,
   SQLite and vector search. Nothing leaves the computer. MIT.
 - **TraceAI** *(in progress)*: local-first observability for AI apps and AI coding CLIs.
