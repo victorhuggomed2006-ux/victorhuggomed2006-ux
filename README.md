@@ -7,7 +7,8 @@ running.
 ## Focus areas
 
 - **AI / ML:** RAG, vector databases, fine-tuning, local LLMs
-- **Software:** full-stack development, architecture, tech leadership
+- **Backend (preferred):** Python with Django, FastAPI and Flask; architecture and tech leadership
+- **Front end:** React, Next.js, HTMX, Tailwind CSS and plain CSS
 - **Platform & Infra:** DevOps, CI/CD, networking
 - **Cybersecurity:** SAST and DAST, secrets scanning, supply chain and container security
 
