@@ -1,4 +1,4 @@
-# Hi, I'm victorhuggomed2006-ux 👋
+# Hi, I'm Victor Medeiros 👋
 
 IT analyst and AI engineer working across the full stack: from LLM and RAG
 systems to the infrastructure, security and delivery pipelines that keep them
