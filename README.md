@@ -30,7 +30,7 @@ Python (Django, FastAPI, Flask), JavaScript, React, Next.js, HTMX, Tailwind CSS,
   100% local audio transcription for Windows, macOS and Linux, with a
   local AI assistant that answers questions citing the exact audio excerpt. faster-whisper, Ollama,
   SQLite and vector search. Nothing leaves the computer. MIT.
-- **TraceAI** *(in progress)*: local-first observability for AI apps and AI coding CLIs.
+- **TraceHunter** *(in progress)*: local-first observability for AI apps and AI coding CLIs.
   Python, FastAPI, SQLite.
 
 ## How I work
