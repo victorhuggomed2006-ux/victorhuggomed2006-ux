@@ -8,7 +8,8 @@ running.
 
 - **AI / ML:** RAG, vector databases, fine-tuning, local LLMs
 - **Software:** full-stack development, architecture, tech leadership
-- **Platform & Infra:** DevOps, CI/CD, networking, security (SAST, secrets, supply chain)
+- **Platform & Infra:** DevOps, CI/CD, networking
+- **Cybersecurity:** SAST and DAST, secrets scanning, supply chain and container security
 
 ## Projects
 
@@ -17,6 +18,14 @@ running.
   Python, PySide6, yt-dlp.
 - **TraceAI** *(in progress)*: local-first observability for AI apps and AI coding CLIs.
   Python, FastAPI, SQLite.
+
+## How I validate code
+
+- **Tests:** pytest, pytest-cov, Hypothesis (property-based), Mutmut (mutation), Locust (load)
+- **Quality:** Ruff (lint + format), mypy (strict), Xenon / Radon (complexity), pre-commit
+- **Security:** Bandit and Semgrep (SAST), gitleaks (secrets), pip-audit and pip-licenses (dependencies, licenses),
+  Trivy and Syft / Grype (containers, SBOM), Checkov and KICS (IaC), OWASP ZAP (DAST), Dependabot
+- **Pipeline:** GitHub Actions, Docker, uv
 
 ## Currently
 
